@@ -10,3 +10,8 @@ Index of meetup notes pages 😁
 - [26 May 2020 - Azure Sketches, The Architect Series - Part 1](meetups/2020/20200526.md)
 - [4 May 2020 - Let's chat.. virtually 😁](meetups/2020/20200504.md)
 
+## Subscribe / Join
+
+[![Azure Transformation Labs](meetups/2020/files/_common/meetup.jpg)](https://www.meetup.com/Azure-Transformation-Labs/)
+
+[![South Africa Durban UG](meetups/2020/files/_common/YouTube.jpg)](https://www.youtube.com/channel/UCLiY63qnSK5H619_uKSue4g)
