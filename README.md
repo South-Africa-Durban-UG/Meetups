@@ -4,8 +4,9 @@ Index of meetup notes pages 😁
 
 ## 2020
 
-- [21 July 2020 - Azure Sketches, The Architect Series - Part 3](meetups/2020/20200721.md)
+- [1 September 2020 - News & Catch up 📰 September 2020](meetups/2020/20200901.md)
 - [4 August 2020 - News & Catch up 📰 August 2020](meetups/2020/20200804.md)
+- [21 July 2020 - Azure Sketches, The Architect Series - Part 3](meetups/2020/20200721.md)
 - [7 July 2020 - News & Catch up 📰 July 2020](meetups/2020/20200707.md)
 - [23 June 2020 - Azure Sketches, The Architect Series - Part 2](meetups/2020/20200623.md)
 - [2 June 2020 - News & Catch up 📰 June 2020](meetups/2020/20200602.md)
